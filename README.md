@@ -1,2 +1,3 @@
-# microbit
-Microbit kode
+# micro:bit
+
+Kodeeksempler til micro:bit
